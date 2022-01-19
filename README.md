@@ -1,2 +1,2 @@
 # BPRKancana-v2
-BPRKancana Python Base
+BPRKancana V2
